@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 -->
-<h1 align="left">Hi 👋, I'm Vadzim</h1>
-<h3 align="left">a Software Engineer in Los Angeles,CA.</h3>
+<h4 align="left">Hi 👋, I'm Vadzim</h1>
+<h4 align="left">a Software Engineer in Los Angeles,CA.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vadzimk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vadzimk" height="30" width="40" /></a>
 </p>
