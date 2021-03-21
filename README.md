@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 -->
-<h1 align="center">Hi 👋, I'm Vadzim</h1>
-<h3 align="center">a Software Engineer in Los Angeles,CA.</h3>
+<h1 align="left">Hi 👋, I'm Vadzim</h1>
+<h3 align="left">a Software Engineer in Los Angeles,CA.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
