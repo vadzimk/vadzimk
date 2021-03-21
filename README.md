@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vadzimk/vadzimk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 -->
-<p align="left">Hi 👋, I'm Vadzim
+<p align="left">Hi, I'm Vadzim
 <br>a Software Engineer in Los Angeles,CA.</p>
 
 <p align="left">Connect with me:</p>
