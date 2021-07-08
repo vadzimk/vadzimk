@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>a Software Engineer in Los Angeles,CA.</p>
 
 <p align="left">Connect with me:
-<a href="https://linkedin.com/in/vadzimk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vadzimk" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/vadzimk" target="blank">https://www.linkedin.com/in/vadzim-k/</a>
 </p>
 
 <p align="left">Languages and Tools:
